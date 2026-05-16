@@ -1,4 +1,4 @@
-# Project Title
+# Heart Landing Page
 
 A brief description of what this project does and who it's for. This application is built using React, TypeScript, and Vite.
 
